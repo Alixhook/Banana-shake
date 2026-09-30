@@ -1,0 +1,16 @@
+{
+  "promptId": "001",
+  "versions": [
+    {
+      "versionId": "v1790751500757-2yg7qsaqe",
+      "content": "open mcp connection and report pages titles",
+      "timestamp": 1790751500758,
+      "changeType": "edit",
+      "milestone": {
+        "label": "is this good Title or it should be awakrd",
+        "createdAt": 1790751664172
+      }
+    }
+  ],
+  "currentVersionId": "v1790751500757-2yg7qsaqe"
+}
